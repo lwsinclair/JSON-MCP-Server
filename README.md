@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-json-mcp-server-badge.png)](https://mseep.ai/app/gongrzhe-json-mcp-server)
+
 # JSON MCP Server (@gongrzhe/server-json-mcp@1.0.3)
 
 A JSON Model Context Protocol (MCP) server implementation for querying and manipulating JSON data. This server enables LLMs to interact with JSON data through a set of standardized tools.
